@@ -1,0 +1,16 @@
+{
+  "name": "babel-plugin-runtime-logger",
+  "version": "1.0.0",
+  "description": "A sample Babel Plugin to determine ES5 functions runtime",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jest test/"
+  },
+  "author": "Kashyap Mukkamala",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-plugin-tester": "^6.0.0",
+    "jest": "^24.1.0"
+  }
+}
